@@ -1,2 +1,2 @@
-# memory-card-
-A React memory card game using Waifu.im API 
+# Memory Card Game
+A React memory card game using the unofficial CSGO API (https://github.com/ByMykel/CSGO-API)
